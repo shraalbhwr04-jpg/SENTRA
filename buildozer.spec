@@ -29,3 +29,5 @@ android.permissions = INTERNET
 
 [buildozer]
 log_level = 2
+# (int) Accept Android SDK licenses (0 = False, 1 = True)
+android.accept_sdk_license = True
